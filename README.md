@@ -1,4 +1,4 @@
-kkim.ksa@gmail.com | 240.355.2221
+kkim.ksa@gmail.com | 240.355.2221 | [LinkedIn](www.linkedin.com/in/kristine-kim-434a35103/)
 # Kristine Kim
 Experienced Elementary School Teacher with a demonstrated history of working with diverse learners. Accomplished editorial associate and writer on preK-12 education policy with experience in digital content production and education research. 
 
@@ -11,7 +11,7 @@ Graduated 2019
 <br> B.A. in English Language & Literature </br>
 Graduated 2016
 
-## Skills / Too
+## Skills / Tools
 - Programming Languages – HTML, CSS, JavaScrip
 - Adobe Suite: Photoshop, Illustrator, Premier Pro, Captivate, and InDesign
 - Content Management Systems
@@ -49,3 +49,10 @@ Sept. 2015 - Jul. 2017
 - Researched current trends in education and recruited educators as guest writers 
 - Strategized branding of Teacher Magazine through social media activities: Twitter, Facebook, weekly and monthly e-newsletters
 - Developed creative advertising content, designs, concepts, and sample layouts for online content and social media  
+
+## Affiliations
+- Leadership for Educational Equity
+- Urban Teachers Baltimore 
+- AmeriCorps 
+- Education Writers Association
+- UNRWA
